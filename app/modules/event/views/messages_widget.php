@@ -111,7 +111,7 @@ $(document).on('appUpdate', function(){
 		
 		return '<a class="list-group-item" href="'+url+'">'+
 			'<span class="pull-right" style="padding-left: 10px">'+moment(date).fromNow()+'</span>'+
-			icon+item.computer_name+'<span class="hidden-xs"> | </span><br class="visible-xs-inline">'+
+			icon+item.computer_name+' ('+item.console_user+') <span class="hidden-xs"> | </span><br class="visible-xs-inline">'+
 			item.module + ' '+msg+'</a>'
 			
 	
