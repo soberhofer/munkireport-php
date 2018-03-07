@@ -1,4 +1,8 @@
-FORK NOTES: The only difference in this fork right now is that the Events Widget in the Dashboard shows the console_user as well as the computer_name
+FORK NOTES: The only difference in this fork right now is that the Events Widget in the Dashboard shows the console_user as well as the computer_name, which then looks like this:
+
+![console User](https://raw.githubusercontent.com/soberhofer/munkireport-php/master/console_user.png)
+
+END FORK NOTES
 
 [![Stories in Ready](https://badge.waffle.io/munkireport/munkireport-php.png?label=ready&title=Ready)](https://waffle.io/munkireport/munkireport-php)
 munkireport-php
